@@ -1,0 +1,35 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Count the lollipops by 2s and find the total lollipops.<br><img width='70%' src='./images/25.jpg'>",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Count the socks by 2s and find the total number of socks.<br><img width='70%' src='./images/26.jpg'>",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "8"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Count the presents by 5s and find the total number of presents.<br><img width='70%' src='./images/27.jpg'>",
+        "options": [
+            "10",
+            "20",
+            "15",
+            "25"
+        ],
+        "correct": 2
+    }
+]
